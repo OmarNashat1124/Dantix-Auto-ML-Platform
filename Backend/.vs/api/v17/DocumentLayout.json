@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yar95\\Desktop\\New folder (7)\\Autonomous-Data-Analysis-and-Machine-Learning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75181159-7072-408C-B288-D9C0E5A5232F}|api.csproj|c:\\users\\yar95\\desktop\\new folder (7)\\autonomous-data-analysis-and-machine-learning\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75181159-7072-408C-B288-D9C0E5A5232F}|api.csproj|solutionrelative:services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75181159-7072-408C-B288-D9C0E5A5232F}|api.csproj|c:\\users\\yar95\\desktop\\new folder (7)\\autonomous-data-analysis-and-machine-learning\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75181159-7072-408C-B288-D9C0E5A5232F}|api.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75181159-7072-408C-B288-D9C0E5A5232F}|api.csproj|c:\\users\\yar95\\desktop\\new folder (7)\\autonomous-data-analysis-and-machine-learning\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75181159-7072-408C-B288-D9C0E5A5232F}|api.csproj|solutionrelative:dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75181159-7072-408C-B288-D9C0E5A5232F}|api.csproj|c:\\users\\yar95\\desktop\\new folder (7)\\autonomous-data-analysis-and-machine-learning\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75181159-7072-408C-B288-D9C0E5A5232F}|api.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yar95\\Desktop\\New folder (7)\\Autonomous-Data-Analysis-and-Machine-Learning\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\yar95\\Desktop\\New folder (7)\\Autonomous-Data-Analysis-and-Machine-Learning\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T08:51:46.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yar95\\Desktop\\New folder (7)\\Autonomous-Data-Analysis-and-Machine-Learning\\DTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\yar95\\Desktop\\New folder (7)\\Autonomous-Data-Analysis-and-Machine-Learning\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "DTO\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T08:51:45.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\yar95\\Desktop\\New folder (7)\\Autonomous-Data-Analysis-and-Machine-Learning\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\yar95\\Desktop\\New folder (7)\\Autonomous-Data-Analysis-and-Machine-Learning\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA2wBMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T08:17:36.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\yar95\\Desktop\\New folder (7)\\Autonomous-Data-Analysis-and-Machine-Learning\\Services\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\AuthService.cs",
+              "ToolTip": "C:\\Users\\yar95\\Desktop\\New folder (7)\\Autonomous-Data-Analysis-and-Machine-Learning\\Services\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "Services\\Implementations\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:08:43.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
