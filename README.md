@@ -1,4 +1,4 @@
-# Agentic AI System — Full Stack Documentation
+# Agentic AI System
 
 A complete, production-ready **Agentic AI platform** combining:
 
