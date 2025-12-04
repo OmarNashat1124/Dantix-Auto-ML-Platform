@@ -126,7 +126,7 @@ Prediction automatically:
 3. Sanitizes columns  
 4. Runs model inference  
 5. Decodes classification labels if needed  
-6. Returns confidence (if available)
+
 
 ---
 
@@ -169,7 +169,7 @@ modal deploy modal_app.py
 
 ---
 
-# 8. API Overview (COMPLETE)
+# 8. API Overview 
 
 Here is the **FULL REST API** used by the system.
 
@@ -281,10 +281,6 @@ Stored at:
 # 11. Future Enhancements
 
 - Drift detection  
-- Automated retraining loop  
-- Multi-user model experiment tracking  
+- Automated retraining loop   
 - Improved Dashboard UI  
 
----
-
-# ✔️ End of README  
